@@ -1,5 +1,5 @@
-title: My Portfolio
-description: This is my personal portfolio website.
-theme: minima # Example of a Jekyll theme
-author: Rahul Negi
-url: https://rahulnegi.github.io
+title: Rahul Negi
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
